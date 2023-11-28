@@ -3,14 +3,13 @@
 //important firebase details for connection to firebase db
 
 export const firebaseConfig = {
-    apiKey: "AIzaSyDAehRr48_wScjChV5F3xp5hoO5ewtmBTE",
-    authDomain: "theindiandelight-810f1.firebaseapp.com",
-    databaseURL: "https://theindiandelight-810f1-default-rtdb.firebaseio.com",
-    projectId: "theindiandelight-810f1",
-    storageBucket: "theindiandelight-810f1.appspot.com",
-    messagingSenderId: "63954224845",
-    appId: "1:63954224845:web:d810b1faee257a6167cb84"
-  };
+  apiKey: "AIzaSyAnZ3o9jOHZeoLk8qWb0IJr2nmkQghhY5I",
+  authDomain: "tasty-roots.firebaseapp.com",
+  projectId: "tasty-roots",
+  storageBucket: "tasty-roots.appspot.com",
+  messagingSenderId: "909352321413",
+  appId: "1:909352321413:web:d6eb8fff3daed7f77904ec"
+};
 
 
 //configurations for images to be uploaded by admin side
