@@ -34,3 +34,5 @@ This project aims to address these challenges by developing a robust Indian Food
 
 ## Screenshort
 ![SS1](https://github.com/yatharth-2906/Tasty-Roots/assets/97800277/39623481-7cb2-4681-aabc-37377ac4efc9)
+![SS2](https://github.com/yatharth-2906/Tasty-Routes/assets/97800277/14896644-db8f-4694-8958-76fc72d78b2d)
+![SS3](https://github.com/yatharth-2906/Tasty-Routes/assets/97800277/d5867728-b2c3-4035-8893-ee69ff3af4f7)
