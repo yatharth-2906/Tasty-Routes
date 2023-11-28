@@ -19,7 +19,7 @@ This project aims to address these challenges by developing a robust Indian Food
   - Git for version control and collaboration.
 
 - **Deployment**:
-  - Git for version control and collaboration.
+  - We have used Vercel for efficient deployment. 
 
 - **Security**:
   - HTTPS for secure data transmission.
