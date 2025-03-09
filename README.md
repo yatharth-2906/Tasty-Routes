@@ -9,7 +9,6 @@ This project aims to address these challenges by developing a robust Indian Food
   - Figma & Adobe Photoshop for UI/UX prototyping and design.
 
 - **Frontend**:
-  - HTML, CSS for structure and styling.
   - React JS for building responsive and dynamic user interfaces.
 
 - **Backend**:
@@ -23,14 +22,7 @@ This project aims to address these challenges by developing a robust Indian Food
 
 - **Security**:
   - HTTPS for secure data transmission.
-  - Authentication: Implement secure Google authentication.
-
-- **Testing**:
-  - React Testing Library for frontend testing.
-
-- **Documentation**:
-  - Markdown for project documentation.
-  - Swagger/OpenAPI for API documentation.
+  - Authentication: Implement secure authentication using Firebase.
 
 ## Screenshort
 ![SS1](https://github.com/yatharth-2906/Tasty-Roots/assets/97800277/39623481-7cb2-4681-aabc-37377ac4efc9)
