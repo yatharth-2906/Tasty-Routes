@@ -8,11 +8,8 @@ This project aims to address these challenges by developing a robust Indian Food
 - **UI/UX Design**:
   - Figma & Adobe Photoshop for UI/UX prototyping and design.
 
-- **Frontend**:
+- **Tech Stack**:
   - React JS for building responsive and dynamic user interfaces.
-
-- **Backend**:
-  - Node JS for server-side logic and API development.
 
 - **Version Control**:
   - Git for version control and collaboration.
